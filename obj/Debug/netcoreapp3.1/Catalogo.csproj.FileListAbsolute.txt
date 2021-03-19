@@ -1,0 +1,13 @@
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\bin\Debug\netcoreapp3.1\Catalogo.exe
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\bin\Debug\netcoreapp3.1\Catalogo.deps.json
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\bin\Debug\netcoreapp3.1\Catalogo.runtimeconfig.json
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\bin\Debug\netcoreapp3.1\Catalogo.runtimeconfig.dev.json
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\bin\Debug\netcoreapp3.1\Catalogo.dll
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\bin\Debug\netcoreapp3.1\Catalogo.pdb
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.csprojAssemblyReference.cache
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.AssemblyInfoInputs.cache
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.AssemblyInfo.cs
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.dll
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.pdb
+C:\Users\Lucas Viana\Desktop\.NET\Catalogo\obj\Debug\netcoreapp3.1\Catalogo.genruntimeconfig.cache
